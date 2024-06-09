@@ -1,0 +1,5 @@
+{
+    "git.useCommitInputAsStashMessage": true,
+    "git.verboseCommit": true,
+    "html.hover.references": false
+}
